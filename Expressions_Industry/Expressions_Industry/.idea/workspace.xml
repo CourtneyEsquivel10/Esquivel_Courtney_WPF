@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="86" selection-start="321" selection-end="321" vertical-scroll-proportion="0.16853933" vertical-offset="0" max-vertical-offset="801">
+            <state line="23" column="9" selection-start="457" selection-end="457" vertical-scroll-proportion="0.4307116" vertical-offset="0" max-vertical-offset="801">
               <folding />
             </state>
           </provider>
@@ -66,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="180" />
-    <option name="y" value="286" />
+    <option name="x" value="513" />
+    <option name="y" value="417" />
     <option name="width" value="1400" />
     <option name="height" value="973" />
   </component>
@@ -151,7 +151,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="286" width="1400" height="973" extended-state="0" />
+    <frame x="513" y="417" width="1400" height="973" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -201,7 +201,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="86" selection-start="321" selection-end="321" vertical-scroll-proportion="0.16853933" vertical-offset="0" max-vertical-offset="801">
+        <state line="23" column="9" selection-start="457" selection-end="457" vertical-scroll-proportion="0.4307116" vertical-offset="0" max-vertical-offset="801">
           <folding />
         </state>
       </provider>
