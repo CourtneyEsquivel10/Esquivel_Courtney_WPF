@@ -1,3 +1,3 @@
-/**
- * Created by courtneyesquivel on 12/7/13.
- */
+//expressions
+var y=54000;
+var x=y-13500;
