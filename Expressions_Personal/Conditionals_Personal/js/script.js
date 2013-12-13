@@ -11,5 +11,4 @@ var lights = 60;
  console.log("You can use them!");
 
  }*/
-
-    (lights > 60) ? console.log("You can use them!") :  console.log("You can use them!");
+ (lights > 60) ? console.log("You can use them!") :  console.log("You can use them!");
