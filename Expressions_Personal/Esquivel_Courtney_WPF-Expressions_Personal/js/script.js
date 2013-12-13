@@ -2,7 +2,7 @@
 
 
 <
-    var y=60;
-    var x=y*7;
+    var y = 60;
+    var x = y*7;
 
 
