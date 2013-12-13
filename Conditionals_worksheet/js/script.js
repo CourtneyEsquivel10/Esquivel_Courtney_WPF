@@ -1,16 +1,12 @@
-//Conditional
+//Conditional Logic - Ternary Operators
 
-//Is the temperature the same in both fahrenheit and celsius?
-    var fahrenheitTemp =0;
-    var celsiusTemp =132;
-    var higherDegree = false
+var gpa = 48;
 
-//if the temperature is 32 degrees celsius than it is 0 degree fahrenheit.
-
-if(fahrenheitTemp < celsiusTemp || higherDegree=== false){
-    //if it's 0 degrees Celsius than it is equal to 32 degrees fahrenheit
-
-    console.log("The temperature is the same in both celsius and fahrenheit!");
+//if gpa is over the min 2.0 score, the student can graduate
+/*if( gpa> > 2.0){
+    console.log("You can graduate!");
 }else{
-    console.log("The temperature is not the same!!");
-}
+    console.log("GPA is too low!");
+ */
+
+(gpa > 2.0)? console.log("You can graduate!"): console.log("GPA is too low!");
