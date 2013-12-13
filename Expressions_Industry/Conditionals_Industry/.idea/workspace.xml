@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="6" selection-start="430" selection-end="430" vertical-scroll-proportion="0.23665048" vertical-offset="0" max-vertical-offset="824">
+            <state line="11" column="62" selection-start="339" selection-end="339" vertical-scroll-proportion="0.16383494" vertical-offset="0" max-vertical-offset="824">
               <folding>
                 <element signature="e#0#51#0" expanded="false" />
               </folding>
@@ -129,6 +129,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Expressions_Personal/Esquivel_Courtney_WPF-Expressions_Personal" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
@@ -187,7 +188,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="6" selection-start="430" selection-end="430" vertical-scroll-proportion="0.23665048" vertical-offset="0" max-vertical-offset="824">
+        <state line="11" column="62" selection-start="339" selection-end="339" vertical-scroll-proportion="0.16383494" vertical-offset="0" max-vertical-offset="824">
           <folding>
             <element signature="e#0#51#0" expanded="false" />
           </folding>
