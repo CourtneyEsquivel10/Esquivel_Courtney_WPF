@@ -1,3 +1,4 @@
+//Courtney Esquivel 12/19/2013 Functions Industry
 //Functions - Parameters and Arguments
 
 function staffPay(){
