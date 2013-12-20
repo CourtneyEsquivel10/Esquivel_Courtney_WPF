@@ -1,10 +1,10 @@
 //Courtney Esquivel 12/19/2013
-//Functions - Parameters and Arguments
+//Functions -
 
-function staffPay(){
-    var advocateContract =54000;//Full contract amount for Student advocates
-    var adminFees = 13500//fees for contract
-    var staffPay = advocateContract - adminFees;
-    console.log("There is " + staffPay + " remaining for staff pay including taxes and insurance.")
+function fifthchild(){
+    var johnny = 5;
+    var otherNames = 0
+
+    console.log("The fifth child is named " + fifthchild + " can not be any other name")
 }
-staffPay()
+fifthchild()
