@@ -1,8 +1,10 @@
 //Functions - Parameters and Arguments
 
-function dogYears(age){
-    var dogYears = age * 7;
-    console.log("Sparky is " + dogYears + " years old.")
+function beeStings(){
+    var lbs =135;//weight of the animal
+    var beeStings = lbs * 8.666666667;
+    console.log("It takes " + beeStings + " to kill an animal.")
 }
-dogYears(4);
+beeStings()
+
 
